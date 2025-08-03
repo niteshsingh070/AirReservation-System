@@ -70,9 +70,3 @@ AirReservation-System/
 
 ⭐️ *If you found this project useful, feel free to star the repo and share your feedback!*
 ---
-
-Let me know if you’d like to add a license, contribution guidelines, or screenshots to make it even more complete!
-```
-
-
-
