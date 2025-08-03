@@ -34,10 +34,7 @@ AirReservation-System/
 └── assets/
 └── images/
 
-````
-
 ---
-
 ## 🚀 How to Run Locally
 
 1. Clone the repository:
@@ -51,7 +48,8 @@ AirReservation-System/
 
 ## 📸 Preview
 
-> [Preview Screenshot]<img width="1915" height="860" alt="image" src="https://github.com/user-attachments/assets/87eb34da-2705-4a50-ac18-546c168ecf1d" />
+ [Preview Screenshot]
+<img width="1915" height="860" alt="image" src="https://github.com/user-attachments/assets/87eb34da-2705-4a50-ac18-546c168ecf1d" />
 ---
 
 ## 👨‍💻 Author
